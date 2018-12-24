@@ -1,0 +1,2 @@
+The memory files folder is for storing statments that need to be remembered. For example, if the computor needs to remember that Aathreya has allergies, it would just go to the memory text files
+and find the sentence with that information, and then re-comprehend the sentence.

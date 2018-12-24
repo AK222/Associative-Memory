@@ -1,0 +1,3 @@
+﻿  AI.cpp
+c:\users\aathreya-u\google drive\eternity\sync to computer\code\ai non-release v2.0\ai non-release v2.0\files\wordsetup.h(30): error C2653: 'Read': is not a class or namespace name
+c:\users\aathreya-u\google drive\eternity\sync to computer\code\ai non-release v2.0\ai non-release v2.0\files\wordsetup.h(30): error C3861: 'findWordID': identifier not found
